@@ -21,7 +21,7 @@ Once above prerequisites are ensured to be there, follow these steps
 Clone this project locally
 
 ```git
-git clone https://github.com/himanshu007-creator/oslash-clone.git
+git clone https://github.com/29deepanshutyagi/oslash-backend
 ```
 
 now navigate to root and install the dependencies
