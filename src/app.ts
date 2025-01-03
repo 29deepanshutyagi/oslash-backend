@@ -13,8 +13,7 @@ app.use(
     origin: config.corsOrigin,
   })
 );
-app.use(bodyParser.json());
-
+app.use(bodyParser.json())
 app.listen(config.port, () => {
   console.log(`Server started @port:${config.port}`);
   db();
